@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 64bffb829bf5a1144a2e1922b985f2aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3782974393110592893
+    second: niya-anderson-demonmayor-spritesheet-animations_0
+  - first:
+      213: 5713141021746775328
+    second: niya-anderson-demonmayor-spritesheet-animations_1
+  - first:
+      213: -2904027676408881801
+    second: niya-anderson-demonmayor-spritesheet-animations_2
+  - first:
+      213: -701831064008909940
+    second: niya-anderson-demonmayor-spritesheet-animations_3
+  - first:
+      213: -3064050681958047376
+    second: niya-anderson-demonmayor-spritesheet-animations_4
+  - first:
+      213: 5616696709654069937
+    second: niya-anderson-demonmayor-spritesheet-animations_5
+  - first:
+      213: -5015474190541923903
+    second: niya-anderson-demonmayor-spritesheet-animations_6
+  - first:
+      213: -1156617593748957216
+    second: niya-anderson-demonmayor-spritesheet-animations_7
+  - first:
+      213: 8325021225333633255
+    second: niya-anderson-demonmayor-spritesheet-animations_8
+  - first:
+      213: 3651226123658049140
+    second: niya-anderson-demonmayor-spritesheet-animations_9
+  - first:
+      213: 1164322781989265672
+    second: niya-anderson-demonmayor-spritesheet-animations_10
+  - first:
+      213: 5894673653582199977
+    second: niya-anderson-demonmayor-spritesheet-animations_11
+  - first:
+      213: -6322204423190421368
+    second: niya-anderson-demonmayor-spritesheet-animations_12
+  - first:
+      213: 2226363036459358608
+    second: niya-anderson-demonmayor-spritesheet-animations_13
+  - first:
+      213: -8558762873389414468
+    second: niya-anderson-demonmayor-spritesheet-animations_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: niya-anderson-demonmayor-spritesheet-animations_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3828e3025dc208bc0800000000000000
+      internalID: -3782974393110592893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 513
+        width: 95
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025cde06d77294f40800000000000000
+      internalID: 5713141021746775328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 297
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ddeb9e632d2b7d0800000000000000
+      internalID: -2904027676408881801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 293
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1a61ad589246f0800000000000000
+      internalID: -701831064008909940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 293
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e818832e4a75d0800000000000000
+      internalID: -3064050681958047376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 291
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2490e16e382fd40800000000000000
+      internalID: 5616696709654069937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 291
+        width: 139
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9db9cfbc4756ab0800000000000000
+      internalID: -5015474190541923903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 291
+        width: 127
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e750af2d6ed2ffe0800000000000000
+      internalID: -1156617593748957216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 293
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0399352ba688370800000000000000
+      internalID: 8325021225333633255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 293
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b34f70d2cba230800000000000000
+      internalID: 3651226123658049140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8016d50c661882010800000000000000
+      internalID: 1164322781989265672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 44
+        width: 105
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acfe94e4761ec150800000000000000
+      internalID: 5894673653582199977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 44
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880e456d2940348a0800000000000000
+      internalID: -6322204423190421368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 33
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995839c261a5ee10800000000000000
+      internalID: 2226363036459358608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 61
+        width: 210
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb782de438a293980800000000000000
+      internalID: -8558762873389414468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 899d0f0fc794aa94f88908a267a4e841
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demon1: -2904027676408881801
+      demon10: 5713141021746775328
+      demon11: 5894673653582199977
+      demon12: -6322204423190421368
+      demon13: 2226363036459358608
+      demon14: -8558762873389414468
+      demon2: -701831064008909940
+      demon3: -3064050681958047376
+      demon4: 5616696709654069937
+      demon5: -5015474190541923903
+      demon6: -1156617593748957216
+      demon7: 8325021225333633255
+      demon8: 3651226123658049140
+      demon9: 1164322781989265672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
